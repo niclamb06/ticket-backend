@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": 1760521923005,
+      "title": "fdsffsdf",
+      "description": "asdasdsa",
+      "author": "Jan",
+      "group": "Entwicklung",
+      "status": "erledigt",
+      "createdAt": "2025-10-15T09:52:03.005Z",
+      "updatedAt": "2025-10-15T09:52:12.476Z"
+    }
+  ],
+  "groups": [
+    "Entwicklung",
+    "Design"
+  ],
+  "authors": [
+    "Jan",
+    "Nico"
+  ],
+  "adminPassword": "admin123"
+}
